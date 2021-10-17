@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 :wrench: I'm currently working on:
-- Nvidia Jetbot Web Console based on ROS ([more info](https://github.com/bobboteck/jetbot_ros_webconsole))
-- AR.L.O. Robot for Education #STEM #Arduino ([more info](https://github.com/Cyb3rn0id/AR.L.O.))
+- a version 2.0 of my [JoyStick](https://github.com/bobboteck/JoyStick)
+- [CWLibrary](https://github.com/bobboteck/CWLibrary) for Arduino, is a library to send Morse message
+- A simple HF beacon
 
-:bulb: I'm currently learnig to build my first HF Transceiver :radio:
+:bulb: I'm currently learnig to:
+- build my first HF Transceiver :radio:
+- use serial port on Javascript
 
 🤔 I’m looking for help to design and build my first HF Transceiver
 
