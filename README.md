@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ Completed in the year 2021
+- Version 2.0.0 of my [JoyStick](https://github.com/bobboteck/JoyStick)
+- Released on Arduino Library registry my [CWLibrary](https://github.com/bobboteck/CWLibrary) to send Morse message
 
 :wrench: I'm currently working on:
-- a version 2.0 of my [JoyStick](https://github.com/bobboteck/JoyStick)
-- [CWLibrary](https://github.com/bobboteck/CWLibrary) for Arduino, is a library to send Morse message
+- a version 2.1.0 of my [JoyStick](https://github.com/bobboteck/JoyStick)
 - A simple HF beacon
+- A Direct Conversion Receiver
 
 :bulb: I'm currently learnig to:
 - build my first HF Transceiver :radio:
